@@ -361,7 +361,7 @@ dl{
 
 
 
-/* Sec5 */
+/* Sec5  formulaire */
 
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -370,10 +370,6 @@ html {
   font-family: 'Montserrat', Arial, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-}
-
-body {
-  background: #F2F3EB;
 }
 
 button {
